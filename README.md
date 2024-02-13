@@ -18,7 +18,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :zap: In my free time, I learning new technologies.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Andrei Kaliarovich-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-kaliarovich-39a447230/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Andrei-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-kaliarovich-39a447230/)
 
 ### My stack:
 
